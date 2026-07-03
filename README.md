@@ -15,3 +15,5 @@ Benchmark figures attributed to model vendors are labeled as self-reported in th
 ## License
 
 Text and figures: CC BY-NC-ND 4.0. See [`LICENSE`](./LICENSE).
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
