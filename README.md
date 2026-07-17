@@ -1,3 +1,5 @@
+**English** · [Français](README.fr.md)
+
 # GLM-5.2 in Context
 
 An independent technical analysis (June 2026) comparing the open-weights model **GLM-5.2** (Z.ai) to the proprietary frontier (Claude Opus 4.8, GPT-5.5, Gemini 3.1 Pro, Claude Fable 5). It covers standardized benchmarks, a blind multi-model creative-writing evaluation, capability by task type, censorship and privacy, local-inference viability on Apple Silicon, and inference economics.
